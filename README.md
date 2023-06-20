@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Computer Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...via Email
+- 📫 How to reach me ...via my mail mathewzachariah2003@gmail.com
 
 <!---
 MZACH2003/MZACH2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
